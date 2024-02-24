@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         TikTok Desktop Ad Remover
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  Removes tiktok ads through fetch intercept
 // @author       PixelBlob
 // @match        https://www.tiktok.com/*
